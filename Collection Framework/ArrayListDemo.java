@@ -1,5 +1,3 @@
-
-
 import java.util.ArrayList;
 
 public class ArrayListDemo {
@@ -8,6 +6,7 @@ public class ArrayListDemo {
         l.add("A");
         l.add(10);
         l.add("A");
+	l.add("B");
         l.add(null);
         System.out.println(l);
 
